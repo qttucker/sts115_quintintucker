@@ -1,1 +1,0 @@
-# sts115_quintintucker
