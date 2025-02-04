@@ -142,18 +142,6 @@ print(table(dogs$grooming, dogs$size))
 
 
 
-# 10. Compute the number of dogs in the `terrier` group in two different ways:
-#
-#     a. By making a table from the `group` column. 
-#       [code completion + comprehension]
-#
-#     b. By getting a subset of only terriers and counting the rows.
-#       [code completion + comprehension]
-#
-#     c. Computing the table is simpler (in terms of code) and provides more
-#        information. In spite of that, when would indexing (approach b) be more
-#        useful? [comprehension + interpretation]
-
 # 10.
 #
 # a.  We can use the table function and simply pass it the $group column and it
