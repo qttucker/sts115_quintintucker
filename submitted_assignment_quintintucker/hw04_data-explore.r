@@ -106,6 +106,7 @@ print(dogs[!is.na(dogs$kids) & !is.na(dogs$size) &
                                                            "kids", "size")])
 
 
+
 # 8.
 #
 # a. Here I am indexing dogs the same way as above but only showing two columns
